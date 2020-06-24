@@ -1,16 +1,15 @@
-# flutter_budget_ui
+# Budget UI in Flutter
 
-A new Flutter project.
+For the complete apk you can clone this repository in Vscode or Android Studio 
 
-## Getting Started
+Alternatively you can email me at akhan2501@gmail.com for the apk file
 
-This project is a starting point for a Flutter application.
+## Complete Demo
 
-A few resources to get you started if this is your first Flutter project:
+![Complete Demo](assets/demo/demo.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screens
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen1](assets/demo/screen1.png) ![screen2](assets/demo/screen2.png) ![screen3](assets/demo/screen3.png)
+
+
